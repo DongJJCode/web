@@ -32,6 +32,7 @@ public class MyAnnotationTest1 {
 
             MetaAnnotation ma = annotation1.annotationAttr();
             System.out.println(ma.value());
+
         }
     }
 }
