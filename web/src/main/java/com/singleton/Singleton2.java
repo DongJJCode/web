@@ -20,7 +20,5 @@ public class Singleton2 {
         }
         return  singleton2;
     }
-
-
 }
 
